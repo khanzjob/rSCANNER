@@ -1,5 +1,5 @@
 # rSCANNER
-This is a vulnerability scanner that intergrated other famous tools
+This is an automated vulnerability scanner that intergrates other famous tools and generates reports
 
 Companies are increasingly digitizing their business operations and processes, leading to
 increase security risks. One of the major risks is a hacker exploiting a vulnerability that exists
