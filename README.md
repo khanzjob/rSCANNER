@@ -8,6 +8,7 @@ need to be able to prevent, detect, respond and recover from such attacks. This 
 for developing an automated vulnerability scanner that can detect all the possible vulnerabilities
 and misconfigurations that can be exploited by unauthorized people and search for possible paths
 to compromise systems.
+hello book
 
 # General Objective
 To develop an automated vulnerability scanner to detect and report the vulnerabilities in both
